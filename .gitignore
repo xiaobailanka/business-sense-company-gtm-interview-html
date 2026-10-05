@@ -1,0 +1,9 @@
+node_modules/
+output/
+work/
+*.log
+.env
+.env.*
+jd-*.png
+jd-*.jpg
+jd-*.jpeg

@@ -1,0 +1,9 @@
+{
+  "name": "business-sense-company-gtm-interview-html",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-based company and JD interview HTML skill",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test tests/*.test.mjs", "check": "node scripts/check-package.mjs" }
+}
